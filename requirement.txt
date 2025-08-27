@@ -6,5 +6,5 @@ seaborn
 scikit-learn
 scipy==1.16.1
 openpyxl==3.1.5
-
 adjusttext
+
