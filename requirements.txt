@@ -7,5 +7,6 @@ scikit-learn
 scipy
 openpyxl
 adjusttext
+yellowbrick
 
 
